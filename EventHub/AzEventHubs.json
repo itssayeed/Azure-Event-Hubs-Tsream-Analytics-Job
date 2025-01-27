@@ -1,0 +1,26 @@
+{
+    "id": "/subscriptions/9fd46475-34f3-45af-a671-ab11cb4248a5/resourceGroups/eventhubs-rg/providers/Microsoft.EventHub/namespaces/azeventhub3376",
+    "name": "azeventhub3376",
+    "type": "Microsoft.EventHub/Namespaces",
+    "location": "southindia",
+    "tags": {},
+    "properties": {
+        "disableLocalAuth": false,
+        "zoneRedundant": false,
+        "metricId": "9fd46475-34f3-45af-a671-ab11cb4248a5:azeventhub3376",
+        "serviceBusEndpoint": "https://azeventhub3376.servicebus.windows.net:443/",
+        "isAutoInflateEnabled": false,
+        "maximumThroughputUnits": 0,
+        "kafkaEnabled": true,
+        "provisioningState": "Succeeded",
+        "status": "Active",
+        "createdAt": "2025-01-27T11:38:44.1154445Z",
+        "updatedAt": "2025-01-27T11:39:14Z"
+    },
+    "sku": {
+        "name": "Basic",
+        "tier": "Basic",
+        "capacity": 1
+    },
+    "apiVersion": "2021-11-01"
+}
